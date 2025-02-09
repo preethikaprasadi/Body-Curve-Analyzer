@@ -1,4 +1,4 @@
-# Body-Curve-Analyzer
+# Body Curve Analyzer
 
 **BodyCurve Analyzer** is an AI-powered mobile application that analyzes body measurements to determine body shape, offering personalized fitness, fashion, and health recommendations. Users can track their progress and receive tailored insights to achieve their body goals.
 
